@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'AFNetworking'
+pod 'Parse'
+pod 'ParseUI'
+pod 'FBSDKCoreKit'
+pod 'FBSDKLoginKit'
+pod 'ParseFacebookUtilsV4'
